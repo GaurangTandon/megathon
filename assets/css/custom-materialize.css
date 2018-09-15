@@ -679,7 +679,6 @@ time {
     margin-bottom: 2vh;
 }
 
-
 .logo {
     display: flex;
     justify-content: center;
@@ -907,4 +906,14 @@ footer .center {
     height: 0 !important;
     width: 0 !important;
     opacity: 0 !important;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.row a {
+    flex: 1;
 }
