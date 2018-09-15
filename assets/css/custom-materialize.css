@@ -912,8 +912,6 @@ footer .center {
     width: 0 !important;
     opacity: 0 !important;
 }
-<<<<<<< HEAD
-=======
 
 .row {
     display: flex;
@@ -924,4 +922,3 @@ footer .center {
 .row a {
     flex: 1;
 }
->>>>>>> made flex and reduce image height
