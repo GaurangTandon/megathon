@@ -957,8 +957,8 @@ footer .center {
 }
 
 .cover {
-    background-attachment: fixed;
     background-size: cover;
+    background-position: center;
 
     position: absolute;
     top: 0;
