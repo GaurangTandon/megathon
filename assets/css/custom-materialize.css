@@ -516,7 +516,23 @@ color: #212121;
     overflow: hidden;
 }
 
-/* TODO ORGANIZE AND DEAL WITH THIS ASAP */
+.fixed-floating-right {
+    position: fixed;
+    right: 0;
+    top: 60%;
+
+    font-size: 1rem;
+    padding: 5px;
+
+    background-color: #22252c;
+    color: white;
+}
+
+.fixed-floating-right a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
 
 /*This is timeline css*/
 .timeline ul {
