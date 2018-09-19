@@ -319,6 +319,10 @@ nav ul a {
     transition: all 0.5s ease;
 }
 
+nav ul li:last-child a {
+    font-weight: bold;
+}
+
 /* ------New helper classes------ */
 /* Buttons */
 .btn-line {
