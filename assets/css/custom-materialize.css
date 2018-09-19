@@ -319,7 +319,7 @@ nav ul a {
     transition: all 0.5s ease;
 }
 
-nav ul li:last-child a {
+nav ul li.emphasized a {
     font-weight: bold;
 }
 
