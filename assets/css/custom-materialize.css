@@ -520,6 +520,7 @@ color: #212121;
     overflow: hidden;
 }
 
+/* in case we ever need a floating right container
 .fixed-floating-right {
     position: fixed;
     right: 0;
@@ -540,6 +541,7 @@ color: #212121;
     display: block;
     color: #d7d7d7;
 }
+*/
 
 /*This is timeline css*/
 .timeline ul {
